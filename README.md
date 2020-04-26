@@ -10,3 +10,7 @@ The first cube, I used the existing fragment shader and added two more colors. I
 For the second cube, I loaded an excisting material in the Three.js and gave it a shine with a certain color.
 For the third cube, I created a fragment shader that used two colors to mix them at a certain vertex on the 3D model.
 For the fourth cube, I loaded another material that created a flat color and gave the illusion of different colors being present.
+
+lab4:
+24.a)b)c)
+video>
