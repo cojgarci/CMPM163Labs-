@@ -12,5 +12,5 @@ For the third cube, I created a fragment shader that used two colors to mix them
 For the fourth cube, I loaded another material that created a flat color and gave the illusion of different colors being present.
 
 lab4:
-24.a)b)c)
+24.a)u=.125(x+1) so x=u/.125-1. b) v=1-.125(y+1) so y=((v-1)/-.125)-1 c)the colored sampled is grey 
 video>
