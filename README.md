@@ -21,4 +21,5 @@ video>https://drive.google.com/file/d/1Y5BIssN4rOYToJbXULKnZvT1iYvsHwHl/view?usp
 5 cube:The 5 cube was a challenge. In order to create this cube I had to learn about the mod() that in a way changes the link between the uv and xy coordinates. This allowed me to make a pattern on the mesh.
 
 lab5:
-video-https://drive.google.com/file/d/1xk4D_RT25IMN17XUWsH93I-w9cJPVw8d/view?usp=sharing
+video part1-https://drive.google.com/file/d/1xk4D_RT25IMN17XUWsH93I-w9cJPVw8d/view?usp=sharing
+video part2-https://drive.google.com/file/d/10k0MOQ21MwHzYnirYXLoVuZ_KIzXoxWO/view?usp=sharing
