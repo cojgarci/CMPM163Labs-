@@ -23,3 +23,7 @@ video>https://drive.google.com/file/d/1Y5BIssN4rOYToJbXULKnZvT1iYvsHwHl/view?usp
 lab5:
 video part1-https://drive.google.com/file/d/1xk4D_RT25IMN17XUWsH93I-w9cJPVw8d/view?usp=sharing
 video part2-https://drive.google.com/file/d/10k0MOQ21MwHzYnirYXLoVuZ_KIzXoxWO/view?usp=sharing
+
+lab6:
+
+https://www.shadertoy.com/view/ts2cWD
