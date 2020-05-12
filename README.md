@@ -26,4 +26,5 @@ video part2-https://drive.google.com/file/d/10k0MOQ21MwHzYnirYXLoVuZ_KIzXoxWO/vi
 
 lab6:
 ![](lab6/163lab6.png)
-https://www.shadertoy.com/view/ts2cWD
+coolstuff-https://www.shadertoy.com/view/llj3Rz
+myRender-https://www.shadertoy.com/view/wdlBWs
