@@ -25,5 +25,5 @@ video part1-https://drive.google.com/file/d/1xk4D_RT25IMN17XUWsH93I-w9cJPVw8d/vi
 video part2-https://drive.google.com/file/d/10k0MOQ21MwHzYnirYXLoVuZ_KIzXoxWO/view?usp=sharing
 
 lab6:
-
+![](lab6/163lab6.png)
 https://www.shadertoy.com/view/ts2cWD
