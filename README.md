@@ -28,3 +28,6 @@ lab6:
 ![](lab6/163lab6.png)
 coolstuff-https://www.shadertoy.com/view/llj3Rz
 myRender-https://www.shadertoy.com/view/wdlBWs
+
+lab7:
+video part2-https://drive.google.com/file/d/1NhQoPp_5bfIvHweI_tl-fLU1zTY-E4zM/view?usp=sharing
