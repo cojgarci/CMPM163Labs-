@@ -31,3 +31,9 @@ myRender-https://www.shadertoy.com/view/wdlBWs
 
 lab7:
 video part2-https://drive.google.com/file/d/1NhQoPp_5bfIvHweI_tl-fLU1zTY-E4zM/view?usp=sharing
+
+lab8:
+![](lab8/images/mycity.png)
+![](lab8/images/West_City_DB.png)
+Explanation:For my city I tried my best to generate some of the cylindrical structures that have spheres ontop of them. I also tried to make my city be more blocklike when it can to it's generation.
+Partner: Unfortunately I finished too late in my schedule for me to contact my partner. This stopped me from actually getting in touch with him because of my jobs' strict device rules. 
